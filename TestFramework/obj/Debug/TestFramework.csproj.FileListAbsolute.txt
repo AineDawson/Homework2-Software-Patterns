@@ -1,0 +1,9 @@
+C:\Users\Dawson\source\repos\TestEngine\TestFramework\bin\Debug\TestFramework.dll
+C:\Users\Dawson\source\repos\TestEngine\TestFramework\bin\Debug\TestFramework.pdb
+C:\Users\Dawson\source\repos\TestEngine\TestFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dawson\source\repos\TestEngine\TestFramework\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Dawson\source\repos\TestEngine\TestFramework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dawson\source\repos\TestEngine\TestFramework\obj\Debug\TestFramework.csproj.CoreCompileInputs.cache
+C:\Users\Dawson\source\repos\TestEngine\TestFramework\obj\Debug\TestFramework.csproj.CopyComplete
+C:\Users\Dawson\source\repos\TestEngine\TestFramework\obj\Debug\TestFramework.dll
+C:\Users\Dawson\source\repos\TestEngine\TestFramework\obj\Debug\TestFramework.pdb
